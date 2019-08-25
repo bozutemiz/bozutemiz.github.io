@@ -5,12 +5,20 @@
     <link>https://bozutemiz.github.io/publication/</link>
       <atom:link href="https://bozutemiz.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bozutemiz.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://bozutemiz.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>EGaIn–Metal Interfacing for Liquid Metal Circuitry and Microelectronics Integration</title>
+      <link>https://bozutemiz.github.io/publication/ozutemiz2018egainint/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://bozutemiz.github.io/publication/ozutemiz2018egainint/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

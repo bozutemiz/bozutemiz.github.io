@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kadri Bugra Ozutemiz</title>
-    <link>https://bozutemiz.github.io/</link>
-      <atom:link href="https://bozutemiz.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Kadri Bugra Ozutemiz</description>
+    <title>Carmel Majidi | Kadri Bugra Ozutemiz</title>
+    <link>https://bozutemiz.github.io/authors/carmel-majidi/</link>
+      <atom:link href="https://bozutemiz.github.io/authors/carmel-majidi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carmel Majidi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bozutemiz.github.io/img/icon-192.png</url>
-      <title>Kadri Bugra Ozutemiz</title>
-      <link>https://bozutemiz.github.io/</link>
+      <title>Carmel Majidi</title>
+      <link>https://bozutemiz.github.io/authors/carmel-majidi/</link>
     </image>
     
     <item>
