@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Rivera | Kadri Bugra Ozutemiz</title>
+    <link>https://bozutemiz.github.io/authors/michael-rivera/</link>
+      <atom:link href="https://bozutemiz.github.io/authors/michael-rivera/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Rivera</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Aug 2019 22:35:46 -0400</lastBuildDate>
+    <image>
+      <url>https://bozutemiz.github.io/img/icon-192.png</url>
+      <title>Michael Rivera</title>
+      <link>https://bozutemiz.github.io/authors/michael-rivera/</link>
+    </image>
+    
+    <item>
+      <title>Input, Output and Construction Methods for Custom Fabrication of Room-Scale Deployable Pneumatic Structures</title>
+      <link>https://bozutemiz.github.io/publication/swaminathan2019iocdeployable/</link>
+      <pubDate>Sun, 25 Aug 2019 22:35:46 -0400</pubDate>
+      <guid>https://bozutemiz.github.io/publication/swaminathan2019iocdeployable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

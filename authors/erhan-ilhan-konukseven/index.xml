@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erhan Ilhan Konukseven | Kadri Bugra Ozutemiz</title>
+    <link>https://bozutemiz.github.io/authors/erhan-ilhan-konukseven/</link>
+      <atom:link href="https://bozutemiz.github.io/authors/erhan-ilhan-konukseven/index.xml" rel="self" type="application/rss+xml" />
+    <description>Erhan Ilhan Konukseven</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bozutemiz.github.io/img/icon-192.png</url>
+      <title>Erhan Ilhan Konukseven</title>
+      <link>https://bozutemiz.github.io/authors/erhan-ilhan-konukseven/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive unstructured road detection using close range stereo vision</title>
+      <link>https://bozutemiz.github.io/publication/ozutemiz2013adaptunroaddet/</link>
+      <pubDate>Sun, 23 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://bozutemiz.github.io/publication/ozutemiz2013adaptunroaddet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-learning road detection with stereo vision</title>
+      <link>https://bozutemiz.github.io/publication/ozutemiz2013selflearnroaddet/</link>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://bozutemiz.github.io/publication/ozutemiz2013selflearnroaddet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>https://bozutemiz.github.io/authors/james-wissman/</link>
       <atom:link href="https://bozutemiz.github.io/authors/james-wissman/index.xml" rel="self" type="application/rss+xml" />
     <description>James Wissman</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bozutemiz.github.io/img/icon-192.png</url>
       <title>James Wissman</title>
       <link>https://bozutemiz.github.io/authors/james-wissman/</link>
     </image>
+    
+    <item>
+      <title>Soft-matter pressure sensors for turbulence detection</title>
+      <link>https://bozutemiz.github.io/publication/wissman2019turbdet/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://bozutemiz.github.io/publication/wissman2019turbdet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EGaIn–Metal Interfacing for Liquid Metal Circuitry and Microelectronics Integration</title>

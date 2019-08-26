@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tess Hellebrekers | Kadri Bugra Ozutemiz</title>
+    <link>https://bozutemiz.github.io/authors/tess-hellebrekers/</link>
+      <atom:link href="https://bozutemiz.github.io/authors/tess-hellebrekers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tess Hellebrekers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bozutemiz.github.io/img/icon-192.png</url>
+      <title>Tess Hellebrekers</title>
+      <link>https://bozutemiz.github.io/authors/tess-hellebrekers/</link>
+    </image>
+    
+    <item>
+      <title>Liquid Metal-Microelectronics Integration for a Sensorized Soft Robot Skin</title>
+      <link>https://bozutemiz.github.io/publication/hellebrekers2018lmsoroskin/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://bozutemiz.github.io/publication/hellebrekers2018lmsoroskin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
